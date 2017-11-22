@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# Removing relative_permalinks as this was causing a page build failure
+#relative_permalinks: true
+
+# Setup
+title:            Engineer's braindumps
+description:      'Learn, Code, Share and Discuss...Repeat'
+baseurl:          /
+
+author:
+  name:           'zodiac0prg'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/zodiac0prg

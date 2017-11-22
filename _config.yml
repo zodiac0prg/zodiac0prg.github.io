@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Engineer's braindumps
 description:      'Learn, Code, Share and Discuss...Repeat'
-baseurl:          /
+url:              http://zodiac0prg.github.io
 
 author:
   name:           'zodiac0prg'
